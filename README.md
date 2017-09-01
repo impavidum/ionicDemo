@@ -1,6 +1,6 @@
 # Ionic 2 Demo
 An Ionic 2 demo.
 
-- Git Clone
+- git clone
 - npm install
 - ionic serve
